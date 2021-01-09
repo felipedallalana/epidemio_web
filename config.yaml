@@ -1,4 +1,4 @@
-baseURL: http://examplesite.org/
+baseURL: https://no-epidem-site.netlify.app/
 title: Bigspring Hugo
 theme: bigspring-hugo-startup-theme
 languageName: En
