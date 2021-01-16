@@ -16,8 +16,7 @@ params:
   contact_form_action: '#'
   copyright: Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)
   description: This is meta description
-  footer_content: Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique
-    eget amet, tempus eu at cttur.
+  footer_content: This is website on construction.
   footer_menu_left: Company
   footer_menu_middle: Product
   footer_menu_right: Support
@@ -25,7 +24,7 @@ params:
   logo_width: 200px
   navigation_button:
     enable: yes
-    label: Get Started
+    label: Contact
     link: contact
   plugins:
     css:

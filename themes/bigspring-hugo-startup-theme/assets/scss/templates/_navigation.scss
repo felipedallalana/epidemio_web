@@ -3,7 +3,7 @@
 
   .nav-link {
     text-transform: capitalize;
-    font-weight: 700;
+    font-weight: 1000;
   }
 }
 
@@ -11,14 +11,14 @@
   color: $text-color-dark;
 
   &:hover {
-    color: $primary-color;
+    color: rgb(204, 102, 153);
   }
 }
 
 .navbar-expand-lg .navbar-nav .nav-link {
-  padding: 20px;
+  padding: 30px;
 
   @include desktop {
-    padding: 10px;
+    padding: 100px;
   }
 }

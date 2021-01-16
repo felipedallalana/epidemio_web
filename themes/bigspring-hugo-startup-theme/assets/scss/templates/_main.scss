@@ -1,10 +1,10 @@
 // banner
 .banner {
-  padding: 100px 0 50px;
+  padding: 10px 0 50px;
 }
 
 .feature-card {
-  border-radius: 10px;
+  border-radius: 30px;
   padding: 20px;
   transition: .2s ease;
   background-color: $white;
@@ -15,7 +15,7 @@
 
   i {
     font-size: 30px;
-    color: $primary-color;
+    color: $black;
     display: inline-block;
   }
 }
@@ -28,7 +28,7 @@
   margin: 8px 0;
 
   &:hover {
-    color: $primary-color;
+    color: $white;
   }
 }
 
@@ -326,7 +326,7 @@ a.post-title {
     }
 
     button {
-      height: 10px;
+      height: 40px;
       width: 10px;
       border-radius: 50%;
       display: block;

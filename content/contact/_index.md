@@ -6,8 +6,8 @@ title: Contact Us
 ---
 
 
-### Why you should contact us!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+### Send us an email!
+This is the desprition of an email that we don't have.
 
 * **Phone: +88 125 256 452** 
 * **Mail: info@bigspring.com**
